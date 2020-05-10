@@ -16,3 +16,16 @@ __FRONT END__
 Run on your brower localhost:_port_
 ![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web3.PNG)
 
+You can click the menu and detail of the product for example, click Carrot and you will show this
+![model1](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web4.PNG)
+
+The menu can be zoomed and place more than 1 picture
+If you click to add cart it will added to your chart and you can edit from the cart menu by clicking __VIEW CART__
+![model2](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web5.PNG)
+
+The function:
+- edit the cart by add more or make it less
+- erase the product
+- showing total of the price
+- checkout
+
