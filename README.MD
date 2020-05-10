@@ -12,3 +12,7 @@ Then run the frontend too, with this command
 __ng serve__
 ![ng serve](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web1.PNG)
 
+__FRONT END__
+Run on your brower localhost:_port_
+![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web3.PNG)
+
