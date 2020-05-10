@@ -14,7 +14,7 @@ __ng serve__
 
 __FRONT END__  
 Run on your brower localhost:_port_  
-![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web3.PNG)
+![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/frontend.gif)
 
 You can click the menu and detail of the  
 product for example, click Carrot and you will show this  
