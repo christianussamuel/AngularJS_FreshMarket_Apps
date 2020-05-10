@@ -29,3 +29,12 @@ The function:
 - showing total of the price
 - checkout
 
+If you continue to __CHECK OUT__ without __LOGIN__ it will redirect you to __LOGIN MENU__
+![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web6.PNG)
+
+The Login menu using __GOOGLE CREDENTIAL__ so you can use your __GOOGLE ACCOUNT__ to login for example using my Google Account
+![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web7.PNG)
+
+After you Login it will show you the data from your __Google Account__
+![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web8.PNG)
+
