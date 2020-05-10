@@ -48,3 +48,10 @@ and it will show you the Thankyou menu
 ![checkout](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web9.PNG)
 
 
+<br/>
+<br/>
+The full representation of __FRONT END__  
+![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/frontend_full.gif)
+
+
+
