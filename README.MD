@@ -16,7 +16,7 @@ __FRONT END__
 Run on your brower localhost:_port_  
 ![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web3.PNG)
 
-You can click the menu and detail of the product for example, click Carrot and you will show this  
+You can click the menu and detail of the   product for example, click Carrot and you will show this  
 ![model1](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web4.PNG)
 
 The menu can be zoomed and place more than 1 picture  
