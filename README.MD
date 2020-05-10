@@ -51,7 +51,7 @@ and it will show you the Thankyou menu
 <br/>
 <br/>
 The full representation of __FRONT END__  
-![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/frontend_full.gif)
+![frontend2](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/frontend_full.gif)
 
 
 
