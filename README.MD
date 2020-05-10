@@ -50,5 +50,15 @@ and it will show you the Thankyou menu
 The full representation of __FRONT END__  
 ![frontend2](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/frontend_full.gif)
 
+--  
+--  
+__BACK END__
+Using https://httpie.org/ as the admin you can CREATE, UPDATE, READ, and DELETE just type the ROW 
+
+![backend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web11.PNG)
+
+![backend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web10.PNG)
+
+
 
 
