@@ -16,7 +16,7 @@ __FRONT END__
 Run on your brower localhost:_port_  
 ![frontend](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web3.PNG)
 
-You can click the menu and detail of the   product for example, click Carrot and you will show this  
+You can click the menu and detail of the  product for example, click Carrot and you will show this  
 ![model1](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web4.PNG)
 
 The menu can be zoomed and place more than 1 picture  
@@ -29,16 +29,16 @@ The function:
 - showing total of the price
 - checkout
 
-If you continue to __CHECK OUT__ without __LOGIN__   it will redirect you to __LOGIN MENU__
+If you continue to __CHECK OUT__ without __LOGIN__  it will redirect you to __LOGIN MENU__
 ![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web6.PNG)
 
-The Login menu using __GOOGLE CREDENTIAL__ so you can use your __GOOGLE ACCOUNT__   to login for example using my Google Account
+The Login menu using __GOOGLE CREDENTIAL__ so you can  use your __GOOGLE ACCOUNT__   to login for example using my Google Account
 ![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web7.PNG)
 
-After you Login it will show you the data from your __Google Account__  
+After you Login it will show you  the data from your __Google Account__  
 ![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web8.PNG)
 
-Continue to Check out you will need to Confirm the order   and it will show you the Thankyou menu  
+Continue to Check out you will need  to Confirm the order   and it will show you the Thankyou menu  
 
 ![checkout](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web9.PNG)
 
