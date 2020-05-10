@@ -38,3 +38,8 @@ The Login menu using __GOOGLE CREDENTIAL__ so you can use your __GOOGLE ACCOUNT_
 After you Login it will show you the data from your __Google Account__
 ![login](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web8.PNG)
 
+Continue to Check out you will need to Confirm the order and it will show you the Thankyou menu
+
+![checkout](https://github.com/christianussamuel/AngularJS_FreshMarket_Apps/blob/master/modern_web9.PNG)
+
+
